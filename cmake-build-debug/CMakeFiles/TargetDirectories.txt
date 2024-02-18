@@ -1,0 +1,3 @@
+/Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/cmake-build-debug/CMakeFiles/Panoxyda.dir
+/Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
