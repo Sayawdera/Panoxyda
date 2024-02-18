@@ -181,6 +181,102 @@ build CMakeFiles/Panoxyda.dir/Engine/Net/Protocol.c.o: C_COMPILER__Panoxyda_unsc
   OBJECT_DIR = CMakeFiles/Panoxyda.dir
   OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/Net
 
+build CMakeFiles/Panoxyda.dir/Engine/Analys/Killer.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/Analys/Killer.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/Analys/Killer.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/Analys
+
+build CMakeFiles/Panoxyda.dir/Engine/IoT/Huawei.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/IoT/Huawei.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/IoT/Huawei.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/IoT
+
+build CMakeFiles/Panoxyda.dir/Engine/Net/TCP.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/Net/TCP.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/Net/TCP.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/Net
+
+build CMakeFiles/Panoxyda.dir/Engine/Net/UDP.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/Net/UDP.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/Net/UDP.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/Net
+
+build CMakeFiles/Panoxyda.dir/Config/Config.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Config/Config.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Config/Config.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Config
+
+build CMakeFiles/Panoxyda.dir/Engine/Net/Telnet.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/Net/Telnet.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/Net/Telnet.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/Net
+
+build CMakeFiles/Panoxyda.dir/Engine/Server.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/Server.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/Server.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine
+
+build CMakeFiles/Panoxyda.dir/Engine/Net/Connection.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/Net/Connection.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/Net/Connection.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/Net
+
+build CMakeFiles/Panoxyda.dir/Engine/Binary.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/Binary.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/Binary.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine
+
+build CMakeFiles/Panoxyda.dir/Engine/CNC/Client.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/CNC/Client.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/CNC/Client.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/CNC
+
+build CMakeFiles/Panoxyda.dir/Engine/CNC/Command.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/CNC/Command.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/CNC/Command.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/CNC
+
+build CMakeFiles/Panoxyda.dir/Engine/CNC/Worker.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/CNC/Worker.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/CNC/Worker.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/CNC
+
+build CMakeFiles/Panoxyda.dir/Engine/CNC/Admin.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/CNC/Admin.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/CNC/Admin.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/CNC
+
+build CMakeFiles/Panoxyda.dir/Engine/CNC/Xor.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/CNC/Xor.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/CNC/Xor.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/CNC
+
+build CMakeFiles/Panoxyda.dir/Engine/CNC/Syscalls.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/CNC/Syscalls.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/CNC/Syscalls.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/CNC
+
+build CMakeFiles/Panoxyda.dir/Engine/Net/Tor.c.o: C_COMPILER__Panoxyda_unscanned_Debug /Users/corevoid/Desktop/MyProjects/Hacking/Panoxyda/Engine/Net/Tor.c || cmake_object_order_depends_target_Panoxyda
+  DEP_FILE = CMakeFiles/Panoxyda.dir/Engine/Net/Tor.c.o.d
+  FLAGS = -g -std=gnu2x -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Panoxyda.dir
+  OBJECT_FILE_DIR = CMakeFiles/Panoxyda.dir/Engine/Net
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Panoxyda
@@ -189,7 +285,7 @@ build CMakeFiles/Panoxyda.dir/Engine/Net/Protocol.c.o: C_COMPILER__Panoxyda_unsc
 #############################################
 # Link the executable Panoxyda
 
-build Panoxyda: C_EXECUTABLE_LINKER__Panoxyda_Debug CMakeFiles/Panoxyda.dir/main.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Asus.c.o CMakeFiles/Panoxyda.dir/Engine/Attack/Attack.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Comtrend.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Dpon.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Gpon.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Jaws.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Netlink.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Rand.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Realtek.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Resolv.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Tr.c.o CMakeFiles/Panoxyda.dir/Engine/Checksum.c.o CMakeFiles/Panoxyda.dir/Engine/Enc.c.o CMakeFiles/Panoxyda.dir/Engine/ThinkPHP.c.o CMakeFiles/Panoxyda.dir/Engine/Util.c.o CMakeFiles/Panoxyda.dir/Engine/Analys/DSLScanner.c.o CMakeFiles/Panoxyda.dir/Engine/Analys/IoTScanner.c.o CMakeFiles/Panoxyda.dir/Engine/Analys/Scanner.c.o CMakeFiles/Panoxyda.dir/Engine/Data/Table.c.o CMakeFiles/Panoxyda.dir/Engine/Net/Linksys.c.o CMakeFiles/Panoxyda.dir/Engine/Net/Protocol.c.o
+build Panoxyda: C_EXECUTABLE_LINKER__Panoxyda_Debug CMakeFiles/Panoxyda.dir/main.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Asus.c.o CMakeFiles/Panoxyda.dir/Engine/Attack/Attack.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Comtrend.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Dpon.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Gpon.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Jaws.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Netlink.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Rand.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Realtek.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Resolv.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Tr.c.o CMakeFiles/Panoxyda.dir/Engine/Checksum.c.o CMakeFiles/Panoxyda.dir/Engine/Enc.c.o CMakeFiles/Panoxyda.dir/Engine/ThinkPHP.c.o CMakeFiles/Panoxyda.dir/Engine/Util.c.o CMakeFiles/Panoxyda.dir/Engine/Analys/DSLScanner.c.o CMakeFiles/Panoxyda.dir/Engine/Analys/IoTScanner.c.o CMakeFiles/Panoxyda.dir/Engine/Analys/Scanner.c.o CMakeFiles/Panoxyda.dir/Engine/Data/Table.c.o CMakeFiles/Panoxyda.dir/Engine/Net/Linksys.c.o CMakeFiles/Panoxyda.dir/Engine/Net/Protocol.c.o CMakeFiles/Panoxyda.dir/Engine/Analys/Killer.c.o CMakeFiles/Panoxyda.dir/Engine/IoT/Huawei.c.o CMakeFiles/Panoxyda.dir/Engine/Net/TCP.c.o CMakeFiles/Panoxyda.dir/Engine/Net/UDP.c.o CMakeFiles/Panoxyda.dir/Config/Config.c.o CMakeFiles/Panoxyda.dir/Engine/Net/Telnet.c.o CMakeFiles/Panoxyda.dir/Engine/Server.c.o CMakeFiles/Panoxyda.dir/Engine/Net/Connection.c.o CMakeFiles/Panoxyda.dir/Engine/Binary.c.o CMakeFiles/Panoxyda.dir/Engine/CNC/Client.c.o CMakeFiles/Panoxyda.dir/Engine/CNC/Command.c.o CMakeFiles/Panoxyda.dir/Engine/CNC/Worker.c.o CMakeFiles/Panoxyda.dir/Engine/CNC/Admin.c.o CMakeFiles/Panoxyda.dir/Engine/CNC/Xor.c.o CMakeFiles/Panoxyda.dir/Engine/CNC/Syscalls.c.o CMakeFiles/Panoxyda.dir/Engine/Net/Tor.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.6
   OBJECT_DIR = CMakeFiles/Panoxyda.dir
   POST_BUILD = :

